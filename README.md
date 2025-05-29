@@ -40,3 +40,7 @@ The display function prints the elements of the list from the head to the last n
 4. Main Function
 
 The main function serves as a driver for testing the linked list operations. It inserts four elements (10, 20, 30, and 40) into the list, displays the list, deletes a specific element (20), displays the updated list, and then attempts to delete a non-existent element (100), demonstrating all core functionalities.
+
+##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/4364514c-42ed-490f-adb1-605f986e908a)
